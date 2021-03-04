@@ -1,22 +1,4 @@
-## My Profile 👋
-
-### Skills
-- HTML, CSS
-- Bootstrap
-- PHP
-- Laravel
-- JavaScript
-- React.js
-- My SQL
-- Git
-- Heroku
-- Firebase
-- Material-UI
-
-### Tours
-- Slack
-- Sourcetree
-- GitHub
+## Hi there 👋
 
 <!--
 **D-suke0614/D-suke0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
