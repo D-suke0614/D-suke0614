@@ -1,8 +1,4 @@
 ## Hi there 👋
-## 你好 👋
-## Ciao a tutti 👋
-## Hola 👋
-## Salut 👋
 
 <!--
 **D-suke0614/D-suke0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
