@@ -28,7 +28,7 @@
 <br>
 
 ![Metrics](https://metrics.lecoq.io/D-suke0614)
-![Metrics](https://github.com/D-suke0614/D-suke0614/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/D-suke0614/D-suke0614/blob/main/github-metrics.svg) -->
 
 <br>
 
