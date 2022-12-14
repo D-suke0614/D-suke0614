@@ -17,11 +17,11 @@
   <!-- <a href="https://stackoverflow.com/users/5720201/D-suke0614">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a> -->
-  <a href="http://qiita.com/D-suke">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/D-suke/posts.svg" />
+  <a href="http://qiita.com/D_suke">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/D_suke/posts.svg" />
   </a>
-  <//qiita.com/D-suke">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/D-suke/contributions.svg" />
+  <//qiita.com/D_suke">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/D_suke/contributions.svg" />
   </a>
 </p>
 
