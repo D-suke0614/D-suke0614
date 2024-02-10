@@ -48,5 +48,7 @@
 [![](https://raw.githubusercontent.com/D-suke0614/D-suke0614/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/D-suke0614/D-suke0614/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
+<br>
+
 [![](https://activity-graph.herokuapp.com/graph?username=D-suke0614&theme=github)](https://activity-graph.herokuapp.com/graph?username=D-suke0614&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=dark)
