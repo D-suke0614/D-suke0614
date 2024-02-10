@@ -28,18 +28,15 @@
 
 <br>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-suke0614&theme=swift"></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-suke0614&theme=swift" alt="D-suke0614.profile-details"></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-suke0614&theme=swift)
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-suke0614&theme=swift" alt="D-suke0614.repos-per-language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-suke0614&theme=swift" alt="D-suke0614.most-commit-language">
+</p>
 
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-suke0614&theme=swift" alt="D-suke0614.stats"></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-suke0614&theme=swift)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-suke0614&theme=swift)
-
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-suke0614&theme=swift)
 
 <!-- <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-suke0614&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
