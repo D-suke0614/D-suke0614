@@ -51,4 +51,4 @@
 <br>
 
 [![](https://activity-graph.herokuapp.com/graph?username=D-suke0614&theme=github)](https://activity-graph.herokuapp.com/graph?username=D-suke0614&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=dark)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=light)](https://github-readme-streak-stats.herokuapp.com/?user=D-suke0614&theme=light)
