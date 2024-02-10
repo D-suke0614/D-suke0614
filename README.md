@@ -28,9 +28,10 @@
 
 <br>
 
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-suke0614&theme=swift"></p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-suke0614&theme=swift)
 
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-suke0614&theme=swift)
 
