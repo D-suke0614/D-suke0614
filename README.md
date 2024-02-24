@@ -35,9 +35,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-suke0614&theme=swift" alt="D-suke0614.most-commit-language">
 </p>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-suke0614&theme=swift" alt="D-suke0614.stats"></p>
-
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-suke0614&theme=swift&utcOffset=9" alt="D-suke0614.productive-time"></p>
+<p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-suke0614&theme=swift" alt="D-suke0614.stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D-suke0614&theme=swift&utcOffset=9" alt="D-suke0614.productive-time">
+</p>
 
 <!-- <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-suke0614&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
