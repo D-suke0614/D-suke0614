@@ -18,7 +18,7 @@
   <a href="http://qiita.com/D_suke">
     <img height="20" src="https://qiita-badge.apiapi.app/s/D_suke/posts.svg" />
   </a>
-  <//qiita.com/D_suke">
+  <a href="https://qiita.com/D_suke/contributions">
     <img height="20" src="https://qiita-badge.apiapi.app/s/D_suke/contributions.svg" />
   </a>
 </p>
